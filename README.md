@@ -1,2 +1,2 @@
 # ReTrackVLM
-Repo. for ReTrackVLM framework.
+The code for ReTrackVLM framework will be here upon publication.
